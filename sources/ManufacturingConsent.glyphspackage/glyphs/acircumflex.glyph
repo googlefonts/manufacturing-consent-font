@@ -1,0 +1,22 @@
+{
+color = 3;
+glyphname = acircumflex;
+kernLeft = a;
+kernRight = a;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (-0.342,-1.5);
+ref = circumflexcomb;
+},
+{
+ref = a;
+}
+);
+width = 490;
+}
+);
+unicode = 226;
+}

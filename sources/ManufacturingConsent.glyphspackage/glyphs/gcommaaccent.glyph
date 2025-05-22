@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = gcommaaccent;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (124.017,-315.815);
+ref = cedillacomb;
+},
+{
+ref = g;
+}
+);
+width = 488;
+}
+);
+unicode = 291;
+}

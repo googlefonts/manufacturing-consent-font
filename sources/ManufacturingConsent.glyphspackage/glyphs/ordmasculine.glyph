@@ -1,0 +1,18 @@
+{
+color = 8;
+glyphname = ordmasculine;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,371);
+ref = o;
+scale = (0.75,0.75);
+}
+);
+width = 354;
+}
+);
+unicode = 186;
+}

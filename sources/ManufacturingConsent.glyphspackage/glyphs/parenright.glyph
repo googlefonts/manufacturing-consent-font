@@ -1,0 +1,18 @@
+{
+color = 3;
+glyphname = parenright;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (315.982,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 319;
+}
+);
+unicode = 41;
+}

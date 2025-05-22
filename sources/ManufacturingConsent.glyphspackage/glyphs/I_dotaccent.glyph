@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = Idotaccent;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (285.882,365.9);
+ref = dotaccentcomb;
+},
+{
+ref = I;
+}
+);
+width = 615;
+}
+);
+unicode = 304;
+}

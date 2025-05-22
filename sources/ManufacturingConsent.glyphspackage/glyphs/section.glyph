@@ -1,0 +1,16 @@
+{
+color = 4;
+glyphname = section;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = S;
+}
+);
+width = 670;
+}
+);
+unicode = 167;
+}

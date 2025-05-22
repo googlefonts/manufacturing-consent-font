@@ -1,0 +1,17 @@
+{
+color = 3;
+glyphname = degree;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (-66,0);
+ref = ringcomb;
+}
+);
+width = 234;
+}
+);
+unicode = 176;
+}

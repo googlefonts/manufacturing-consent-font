@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = Emacron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (214.569,281.219);
+ref = macroncomb;
+},
+{
+ref = E;
+}
+);
+width = 737;
+}
+);
+unicode = 274;
+}

@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = Tcedilla;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (295.997,-158.72);
+ref = cedillacomb;
+},
+{
+ref = T;
+}
+);
+width = 719;
+}
+);
+unicode = 354;
+}

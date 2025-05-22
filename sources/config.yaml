@@ -1,0 +1,4 @@
+sources:
+  - ManufacturingConsent.glyphspackage
+buildOTF: false
+buildWebfont: false

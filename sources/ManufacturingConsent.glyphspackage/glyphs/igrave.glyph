@@ -1,0 +1,22 @@
+{
+color = 3;
+glyphname = igrave;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+ref = idotless;
+},
+{
+alignment = -1;
+pos = (20,20);
+ref = gravecomb;
+}
+);
+width = 341;
+}
+);
+unicode = 236;
+}

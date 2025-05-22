@@ -1,0 +1,18 @@
+{
+color = 3;
+glyphname = quoteleft;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (252.625,0);
+ref = quoteright;
+scale = (-1,1);
+}
+);
+width = 239;
+}
+);
+unicode = 8216;
+}

@@ -1,0 +1,23 @@
+{
+color = 3;
+glyphname = periodcentered;
+layers = (
+{
+anchors = (
+{
+name = _middledot;
+pos = (106,402);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (0,324);
+ref = period;
+}
+);
+width = 211;
+}
+);
+unicode = 183;
+}

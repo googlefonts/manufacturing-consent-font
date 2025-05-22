@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = lslash;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(297.408,433.102,l),
+(284.514,458.7,l),
+(20.473,326.582,l),
+(33.408,301,l)
+);
+},
+{
+ref = l;
+}
+);
+width = 287;
+}
+);
+unicode = 322;
+}

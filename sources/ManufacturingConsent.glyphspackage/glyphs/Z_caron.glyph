@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = Zcaron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (154.046,323.5);
+ref = caroncomb;
+},
+{
+ref = Z;
+}
+);
+width = 671;
+}
+);
+unicode = 381;
+}

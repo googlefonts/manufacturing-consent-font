@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = Uring;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (278,232);
+ref = ringcomb;
+},
+{
+ref = U;
+}
+);
+width = 836;
+}
+);
+unicode = 366;
+}

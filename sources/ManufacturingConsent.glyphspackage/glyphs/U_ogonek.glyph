@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = Uogonek;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (284.187,-98.816);
+ref = ogonekcomb;
+},
+{
+ref = U;
+}
+);
+width = 836;
+}
+);
+unicode = 370;
+}

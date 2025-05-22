@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = Ubreve;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (206,296);
+ref = brevecomb;
+},
+{
+ref = U;
+}
+);
+width = 836;
+}
+);
+unicode = 364;
+}

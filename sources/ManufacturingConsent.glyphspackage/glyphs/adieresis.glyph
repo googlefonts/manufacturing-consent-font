@@ -1,0 +1,22 @@
+{
+color = 3;
+glyphname = adieresis;
+kernLeft = a;
+kernRight = a;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (43.54,62);
+ref = dieresiscomb;
+},
+{
+ref = a;
+}
+);
+width = 490;
+}
+);
+unicode = 228;
+}

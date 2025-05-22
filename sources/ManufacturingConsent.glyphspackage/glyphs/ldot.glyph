@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = ldot;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (244,0);
+ref = periodcentered;
+},
+{
+ref = l;
+}
+);
+width = 413;
+}
+);
+unicode = 320;
+}

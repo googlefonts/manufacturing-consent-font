@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = Ncaron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (210.046,307.5);
+ref = caroncomb;
+},
+{
+ref = N;
+}
+);
+width = 693;
+}
+);
+unicode = 327;
+}

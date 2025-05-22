@@ -1,0 +1,17 @@
+{
+color = 3;
+glyphname = comma;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,-586);
+ref = quoteright;
+}
+);
+width = 236;
+}
+);
+unicode = 44;
+}

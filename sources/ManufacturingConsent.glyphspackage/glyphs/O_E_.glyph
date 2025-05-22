@@ -1,0 +1,24 @@
+{
+color = 3;
+glyphname = OE;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+pos = (542,0);
+ref = E;
+},
+{
+alignment = -1;
+ref = O;
+}
+);
+width = 1279;
+}
+);
+metricLeft = O;
+metricRight = E;
+unicode = 338;
+}

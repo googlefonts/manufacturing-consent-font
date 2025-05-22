@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = uring;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (76,-24);
+ref = ringcomb;
+},
+{
+ref = u;
+}
+);
+width = 521;
+}
+);
+unicode = 367;
+}

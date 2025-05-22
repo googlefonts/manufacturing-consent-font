@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = udieresis;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (55.882,78);
+ref = dieresiscomb;
+},
+{
+ref = u;
+}
+);
+width = 521;
+}
+);
+unicode = 252;
+}

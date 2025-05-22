@@ -1,0 +1,16 @@
+{
+color = 4;
+glyphname = Dcroat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 747;
+}
+);
+unicode = 272;
+}

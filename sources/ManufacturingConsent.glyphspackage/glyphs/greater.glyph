@@ -1,0 +1,18 @@
+{
+color = 3;
+glyphname = greater;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (416.333,0);
+ref = less;
+scale = (-1,1);
+}
+);
+width = 425;
+}
+);
+unicode = 62;
+}

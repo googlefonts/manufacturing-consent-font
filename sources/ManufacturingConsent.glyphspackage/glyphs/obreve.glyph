@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = obreve;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (-20,28);
+ref = brevecomb;
+},
+{
+ref = o;
+}
+);
+width = 472;
+}
+);
+unicode = 335;
+}

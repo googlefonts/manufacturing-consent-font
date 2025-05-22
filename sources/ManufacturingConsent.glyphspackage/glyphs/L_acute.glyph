@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = Lacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (276,308);
+ref = acutecomb;
+},
+{
+ref = L;
+}
+);
+width = 719;
+}
+);
+unicode = 313;
+}

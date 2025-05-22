@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = umacron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (8.861,41.219);
+ref = macroncomb;
+},
+{
+ref = u;
+}
+);
+width = 521;
+}
+);
+unicode = 363;
+}

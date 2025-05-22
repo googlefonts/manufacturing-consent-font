@@ -1,0 +1,30 @@
+{
+glyphname = doubleobliquehyphen;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(348,456,l),
+(320,495,l),
+(49,295,l),
+(77,256,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(348,320,l),
+(319,358,l),
+(48,158,l),
+(76,120,l)
+);
+}
+);
+width = 388;
+}
+);
+unicode = 11799;
+}

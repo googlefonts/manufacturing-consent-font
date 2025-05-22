@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = Jcircumflex;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (88,298.5);
+ref = circumflexcomb;
+},
+{
+ref = J;
+}
+);
+width = 621;
+}
+);
+unicode = 308;
+}

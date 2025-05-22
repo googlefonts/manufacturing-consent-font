@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = Ntilde;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (159,272);
+ref = tildecomb;
+},
+{
+ref = N;
+}
+);
+width = 693;
+}
+);
+unicode = 209;
+}

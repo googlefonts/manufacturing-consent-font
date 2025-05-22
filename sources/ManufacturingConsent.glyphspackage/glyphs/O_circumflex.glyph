@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = Ocircumflex;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (170.683,298.5);
+ref = circumflexcomb;
+},
+{
+ref = O;
+}
+);
+width = 754;
+}
+);
+unicode = 212;
+}

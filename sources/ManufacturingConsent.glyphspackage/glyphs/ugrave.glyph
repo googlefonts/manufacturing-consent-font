@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = ugrave;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (160,32);
+ref = gravecomb;
+},
+{
+ref = u;
+}
+);
+width = 521;
+}
+);
+unicode = 249;
+}

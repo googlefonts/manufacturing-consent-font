@@ -1,0 +1,27 @@
+{
+glyphname = overlinecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (271.139,530.781);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(497.872,669,l),
+(75.007,670,l),
+(75.007,563,l),
+(497.872,562,l)
+);
+}
+);
+width = 0;
+}
+);
+unicode = 773;
+}

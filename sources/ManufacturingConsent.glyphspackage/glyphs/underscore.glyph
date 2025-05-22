@@ -1,0 +1,21 @@
+{
+glyphname = underscore;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(781.151,-1,l),
+(108,0,l),
+(10.849,-107,l),
+(684,-108,l)
+);
+}
+);
+width = 797;
+}
+);
+unicode = 95;
+}

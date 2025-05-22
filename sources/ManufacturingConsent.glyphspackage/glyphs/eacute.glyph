@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = eacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (116.801,32);
+ref = acutecomb;
+},
+{
+ref = e;
+}
+);
+width = 426;
+}
+);
+unicode = 233;
+}

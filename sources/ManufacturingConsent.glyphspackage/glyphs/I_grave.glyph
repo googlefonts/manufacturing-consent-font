@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = Igrave;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (270,312);
+ref = gravecomb;
+},
+{
+ref = I;
+}
+);
+width = 615;
+}
+);
+unicode = 204;
+}

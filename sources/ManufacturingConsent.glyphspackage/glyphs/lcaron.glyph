@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = lcaron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (287,72);
+ref = commaaboverightcomb;
+},
+{
+ref = l;
+}
+);
+width = 287;
+}
+);
+unicode = 318;
+}

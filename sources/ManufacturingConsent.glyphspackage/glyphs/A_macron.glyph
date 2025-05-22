@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = Amacron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (233.861,305.219);
+ref = macroncomb;
+},
+{
+ref = A;
+}
+);
+width = 767;
+}
+);
+unicode = 256;
+}

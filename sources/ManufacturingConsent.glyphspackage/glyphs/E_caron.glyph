@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = Ecaron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (250.754,315.5);
+ref = caroncomb;
+},
+{
+ref = E;
+}
+);
+width = 737;
+}
+);
+unicode = 282;
+}

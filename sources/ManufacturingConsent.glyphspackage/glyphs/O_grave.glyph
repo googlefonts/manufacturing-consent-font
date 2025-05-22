@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = Ograve;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (318.683,316);
+ref = gravecomb;
+},
+{
+ref = O;
+}
+);
+width = 754;
+}
+);
+unicode = 210;
+}

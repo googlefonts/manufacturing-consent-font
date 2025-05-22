@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = edotaccent;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (132.683,85.9);
+ref = dotaccentcomb;
+},
+{
+ref = e;
+}
+);
+width = 426;
+}
+);
+unicode = 279;
+}
