@@ -6,14 +6,16 @@ layers = (
 layerId = m001;
 shapes = (
 {
-pos = (161.046,360);
-ref = caroncomb;
+alignment = -1;
+ref = L;
 },
 {
-ref = L;
+alignment = -1;
+pos = (675,-8);
+ref = commaaboverightcomb;
 }
 );
-width = 719;
+width = 739;
 }
 );
 unicode = 317;
