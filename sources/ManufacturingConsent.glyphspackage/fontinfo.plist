@@ -1680,40 +1680,10 @@ name = Regular;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptWeightName;
-value = Regular;
-}
-);
 instanceInterpolations = {
 m001 = 1;
 };
 name = Regular;
-properties = (
-{
-key = postscriptFontName;
-value = Chomsky;
-},
-{
-key = postscriptFullNames;
-values = (
-{
-language = dflt;
-value = Chomsky;
-}
-);
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = Chomsky;
-}
-);
-}
-);
 }
 );
 metrics = (
